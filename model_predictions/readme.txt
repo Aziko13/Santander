@@ -1,0 +1,1 @@
+The final predictions are stored in this folder

@@ -16,7 +16,7 @@ from tqdm import tqdm
 # ---------- INPUT VARS ---------
 random_state = 42
 nrows=None
-data_path = r"C:\\Users\\a_abdraimov\\Desktop\\Docs\\Compet\\Santander Customer Transaction Predition\\input\\"
+data_path = '\input'
 
 # ------------------------------
 

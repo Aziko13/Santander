@@ -23,8 +23,7 @@ np.random.seed(random_state)
 
 # LOADING DATA SETS
 
-# data_path = r'/home/aziz/Desktop/Santander Customer Transaction Prediction/Data/'
-data_path = r'C:/Users/a_abdraimov/Desktop/Docs/Compet/Santander Customer Transaction Predition/input/'
+data_path = '\input'
 
 df_train = pd.read_csv(data_path+'train.csv', nrows=nrows)
 df_test = pd.read_csv(data_path+'test.csv', nrows=nrows)
